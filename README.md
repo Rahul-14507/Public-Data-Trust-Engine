@@ -1,4 +1,4 @@
-# Aadhaar Data Quality Intelligence Engine
+# APublic Data Trust Engine
 
 A comprehensive data quality pipeline for analyzing Aadhaar datasets (Enrolment, Demographic, Biometric).
 
