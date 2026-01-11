@@ -36,14 +36,14 @@ data_quality_engine/
 ### 1. Install Dependencies
 
 ```bash
-cd c:\Projects\UIDAI\data_quality_engine
+cd c:\data_quality_engine
 pip install -r requirements.txt
 ```
 
 ### 2. Run the Pipeline
 
 ```bash
-python run_pipeline.py --input-dir "c:\Projects\UIDAI"
+python run_pipeline.py --input-dir "c:\"
 ```
 
 ### 3. View Reports
